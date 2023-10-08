@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_python"
+        android:title="Python" />
+    <item
+        android:id="@+id/action_java"
+        android:title="Java" />
+</menu>

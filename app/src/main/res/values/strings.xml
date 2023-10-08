@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="languages">
+        <item>python</item>
+        <item>java</item>
+    </string-array>
+</resources>
